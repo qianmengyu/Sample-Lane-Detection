@@ -20,10 +20,17 @@ code\LaneLine5：3.1：Sobel阈值分割+梯形区域+Hough变换
 
 code\OutputVideo：将处理结果输出为视频
 
-yolo3-pytorch.zip：找到的一个yolo3检测代码，修改了predict函数进行处理
+## yolo3 Detection
+
+参考：
+https://github.com/bubbliiiing/yolo3-pytorch
+
+将里面的predict.py换为code中的predict.py
 
 
 ## Result
+
+详情见out1和out2中视频。
 
 白天：  
 ![alt text](other/img1_24.jpg)
